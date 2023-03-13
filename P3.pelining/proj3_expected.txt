@@ -1,0 +1,102 @@
+hash.mips
+
+Cycles: 89788
+CPI: 2.30
+
+Bubbles: 44136
+Flushes: 6526
+
+Mem ops: 41.5% of instructions
+Branches: 12.3% of instructions
+  % Taken: 65.0
+
+RAW hazards: 28954 (1 per every 1.35 instructions)
+  On EXE1 op: 17508 (60%)
+  On EXE2 op: 6314 (22%)
+  On MEM1 op: 3476 (12%)
+  On MEM2 op: 1656 (6%)
+-------------------------------------------------------
+nqueens.mips
+
+Cycles: 432723233
+CPI: 2.09
+
+Bubbles: 200604886
+Flushes: 24671130
+
+Mem ops: 42.8% of instructions
+Branches: 23.5% of instructions
+  % Taken: 25.1
+-------------------------------------------------------
+pqueue.mips
+
+Cycles: 18557
+CPI: 1.94
+
+Bubbles: 7382
+Flushes: 1624
+
+Mem ops: 47.6% of instructions
+Branches: 6.3% of instructions
+  % Taken: 40.4
+-------------------------------------------------------
+prime.mips
+
+Cycles: 676319
+CPI: 2.46
+
+Bubbles: 347163
+Flushes: 54450
+
+Mem ops: 41.7% of instructions
+Branches: 14.1% of instructions
+  % Taken: 70.4
+-------------------------------------------------------
+qsort.mips
+
+Cycles: 106731
+CPI: 2.32
+
+Bubbles: 52443
+Flushes: 8334
+
+Mem ops: 46.0% of instructions
+Branches: 17.3% of instructions
+  % Taken: 50.4
+-------------------------------------------------------
+rand.mips
+
+Cycles: 10200
+CPI: 2.12
+
+Bubbles: 5082
+Flushes: 294
+
+Mem ops: 39.6% of instructions
+Branches: 6.2% of instructions
+  % Taken: 48.2
+-------------------------------------------------------
+regslarge.mips
+
+Cycles: 65798
+CPI: 2.01
+
+Bubbles: 33036
+Flushes: 6
+
+Mem ops: 50.9% of instructions
+Branches: 0.0% of instructions
+  % Taken: 66.7
+-------------------------------------------------------
+sssp.mips
+
+Cycles: 983220
+CPI: 2.19
+
+Bubbles: 481710
+Flushes: 51990
+
+Mem ops: 43.9% of instructions
+Branches: 9.6% of instructions
+  % Taken: 60.5
+
